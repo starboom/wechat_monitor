@@ -74,6 +74,5 @@ if __name__ == "__main__":
 
   # keep running
   while 1:
-    print("keep running")
     time.sleep(3)
   
